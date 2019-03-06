@@ -1,0 +1,21 @@
+rg_name,rg_code,g_count,tot_area
+World                           ,0,215547,705738.793
+Alaska                          ,1,27108,86725.053
+Western Canada and US           ,2,18855,14524.224
+Arctic Canada North             ,3,4556,105110.642
+Arctic Canada South             ,4,7415,40888.228
+Greenland Periphery             ,5,19306,89717.066
+Iceland                         ,6,568,11059.7
+Svalbard                        ,7,1615,33958.934
+Scandinavia                     ,8,3417,2949.103
+Russian Arctic                  ,9,1069,51591.6
+North Asia                      ,10,5151,2410.051
+Central Europe                  ,11,3927,2092.146
+Caucasus and Middle East        ,12,1888,1306.992
+Central Asia                    ,13,54429,49303.415
+South Asia West                 ,14,27988,33568.298
+South Asia East                 ,15,13119,14734.204
+Low Latitudes                   ,16,2939,2341.036
+Southern Andes                  ,17,15908,29429.08
+New Zealand                     ,18,3537,1161.801
+Antarctic and Subantarctic      ,19,2752,132867.22
